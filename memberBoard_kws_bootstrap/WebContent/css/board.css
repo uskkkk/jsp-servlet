@@ -1,0 +1,6 @@
+.list table {width: 80%; margin: 40px auto; border-collapse: collapse;}
+.list th, .list td {padding: 8px;}
+.list th {background: #bbb;}
+.list td {border-bottom: 3px solid #bbb; text-align: center; width: 10%}
+.list td + td {text-align: left; width: 70%;}
+.list td + td + td {text-align: center; width: 10%;}
